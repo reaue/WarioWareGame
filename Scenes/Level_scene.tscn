@@ -1,3 +1,71 @@
 [gd_scene format=3 uid="uid://cfcwfs3n2sg2j"]
 
+[ext_resource type="Script" uid="uid://cwx1b3n87q82w" path="res://Scenes/level_scene.gd" id="1_5w3at"]
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="1_u70vr"]
+[ext_resource type="Texture2D" uid="uid://1a7hf58j73dj" path="res://heart-removebg-preview.png" id="2_u70vr"]
+
 [node name="LevelScene" type="Node2D" unique_id=509335099]
+script = ExtResource("1_5w3at")
+
+[node name="Background" type="TextureRect" parent="." unique_id=1379285605]
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(1.9492335, 1.917132)
+texture = ExtResource("1_u70vr")
+
+[node name="HeartContainer" type="HBoxContainer" parent="." unique_id=868046619]
+offset_left = 8.0
+offset_top = 8.0
+offset_right = 664.0
+offset_bottom = 136.0
+scale = Vector2(0.16377312, 0.16266406)
+
+[node name="TextureRect" type="TextureRect" parent="HeartContainer" unique_id=1350992907]
+layout_mode = 2
+texture = ExtResource("2_u70vr")
+
+[node name="TextureRect2" type="TextureRect" parent="HeartContainer" unique_id=1043033073]
+layout_mode = 2
+texture = ExtResource("2_u70vr")
+
+[node name="TextureRect3" type="TextureRect" parent="HeartContainer" unique_id=84915176]
+layout_mode = 2
+texture = ExtResource("2_u70vr")
+
+[node name="TextureRect4" type="TextureRect" parent="HeartContainer" unique_id=1441738488]
+layout_mode = 2
+texture = ExtResource("2_u70vr")
+
+[node name="TextureRect5" type="TextureRect" parent="HeartContainer" unique_id=1297178763]
+layout_mode = 2
+texture = ExtResource("2_u70vr")
+
+[node name="Level" type="RichTextLabel" parent="." unique_id=757551843]
+clip_contents = false
+offset_left = 1008.0
+offset_top = 16.0
+offset_right = 1131.0
+offset_bottom = 66.0
+theme_override_constants/outline_size = 12
+theme_override_font_sizes/normal_font_size = 36
+text = "Level #"
+fit_content = true
+autowrap_mode = 0
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Timer" type="RichTextLabel" parent="." unique_id=1149355178]
+clip_contents = false
+offset_left = 544.0
+offset_top = 560.0
+offset_right = 604.0
+offset_bottom = 618.0
+theme_override_colors/default_color = Color(0.972549, 0.98039216, 0.9019608, 1)
+theme_override_colors/font_outline_color = Color(0.24705882, 0.20784314, 0.41568628, 1)
+theme_override_constants/outline_size = 12
+theme_override_font_sizes/normal_font_size = 42
+text = "0.0"
+fit_content = true
+autowrap_mode = 0
+horizontal_alignment = 1
+vertical_alignment = 1
