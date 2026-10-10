@@ -1,31 +1,36 @@
 # miniGAME
 
-miniGAME is my first godot project, it's an implementation of two mini games and then some content around.
+miniGAME is a Godot game with two mini-games. The first one is a platformer where you collect all the orbs before time runs out, and the second is a clicker where you click every orb also before the timer ends.
 
 ![image](assets/video.gif)
 
 # Try it
 
 You can play it [**here**](https://reaue.itch.io/minigame).
-    
-# Quick start
-
-
 
 # Features
 
-- The game has a background-music which a adjustable volume, changeable in the settings.
+- The game has a background-music which an adjustable volume, changeable in the settings.
 - The game include a winning and death screen, which are original.
-- The player has 3 lifes and he can see it how much he still has some between two games.
+- The player has 3 lives and the remaining lives are displayed between games
+- If the timer runs out before the player finishes a mini-game, they lose one life. When all three lives are gone, the game over screen appears.
 
-### Mini game 1:
-- A platformer where you need to collect every orbs, during a limitated time,to finish the level.
+### Mini-game 1:
+- A platformer where you need to collect all the orbs, during a limitated time, to finish the level.
 
-### Mini game 2:
-- A clicker where you need to clicks on every orbs before the end of the timer.
+### Mini-game 2:
+- A clicker where you need to clicks on every orb, before the end of the timer.
 
 # How to run it locally
 
+1) Install Godot 4.7.2. The exact version is stored in project.godot, so check it there.
+2) Clone the repository and open the [`project.godot`](project.godot) file in Godot.
+3) Press F5 to run the game.
+
 # How it works 
 
+
+
 # Credits
+
+The project uses open source assets which came from the web such as [pixabay's assets](https://pixabay.com/fr/) or other open source pixel arts from the web. 
