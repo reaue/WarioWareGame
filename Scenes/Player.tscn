@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://x37ogllew5qs"]
+
+[ext_resource type="Script" uid="uid://bcvdvw6c6k3kb" path="res://Scenes/player.gd" id="1_kyqiw"]
+[ext_resource type="Texture2D" uid="uid://blb2m35nsc4vv" path="res://favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1-removebg-preview.png" id="2_gntrk"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_f6tb2"]
+size = Vector2(133, 120)
+
+[node name="Node2D" type="CharacterBody2D" unique_id=473270123]
+script = ExtResource("1_kyqiw")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1920863073]
+position = Vector2(5.5, 2.5)
+scale = Vector2(0.30289823, 0.31011924)
+texture = ExtResource("2_gntrk")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1223439315]
+shape = SubResource("RectangleShape2D_f6tb2")
