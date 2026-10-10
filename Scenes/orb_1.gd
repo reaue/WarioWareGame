@@ -19,3 +19,4 @@ func _on_body_entered(body: Node2D) -> void:
 		garlic_collected.emit()
 		set_deferred("monitoring", false)
 		hide()
+		

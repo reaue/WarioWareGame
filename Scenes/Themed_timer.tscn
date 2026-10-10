@@ -8,9 +8,9 @@ script = ExtResource("1_cx5fo")
 [node name="timer" type="RichTextLabel" parent="." unique_id=19814886]
 clip_contents = false
 offset_left = 544.0
-offset_top = 512.0
+offset_top = 544.0
 offset_right = 604.0
-offset_bottom = 570.0
+offset_bottom = 602.0
 theme_override_constants/outline_size = 12
 theme_override_font_sizes/normal_font_size = 42
 text = "0.0"

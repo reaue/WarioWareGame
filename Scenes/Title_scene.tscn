@@ -14,13 +14,27 @@ texture = ExtResource("1_w70ak")
 
 [node name="Title" type="RichTextLabel" parent="." unique_id=1528412949]
 clip_contents = false
-offset_left = 143.64699
+offset_left = 73.875595
 offset_top = 45.901745
-offset_right = 449.64697
+offset_right = 611.8756
 offset_bottom = 193.90175
 theme_override_constants/outline_size = 40
 theme_override_font_sizes/normal_font_size = 108
 text = "Game"
+fit_content = true
+autowrap_mode = 0
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Title2" type="RichTextLabel" parent="." unique_id=1367605268]
+clip_contents = false
+offset_left = -119.02179
+offset_top = 79.284836
+offset_right = 418.9782
+offset_bottom = 227.28484
+theme_override_constants/outline_size = 40
+theme_override_font_sizes/normal_font_size = 50
+text = "mini"
 fit_content = true
 autowrap_mode = 0
 horizontal_alignment = 1

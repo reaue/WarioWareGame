@@ -32,14 +32,6 @@ texture = ExtResource("2_u70vr")
 layout_mode = 2
 texture = ExtResource("2_u70vr")
 
-[node name="TextureRect4" type="TextureRect" parent="HeartContainer" unique_id=1441738488]
-layout_mode = 2
-texture = ExtResource("2_u70vr")
-
-[node name="TextureRect5" type="TextureRect" parent="HeartContainer" unique_id=1297178763]
-layout_mode = 2
-texture = ExtResource("2_u70vr")
-
 [node name="Level" type="RichTextLabel" parent="." unique_id=757551843]
 clip_contents = false
 offset_left = 1008.0

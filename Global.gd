@@ -1,15 +1,15 @@
 extends Node
 
-
 var minigames_done = 0
-var lives = 5 
+var lives = 3
 
+var music := AudioStreamPlayer.new()
 
-# Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	pass # Replace with function body.
+	add_child(music)
+	music.stream = load("res://paulyudin-game-game-music-573991.mp3") # adapte le nom si tu as mis un .mp3
+	music.play()
 
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
+	var cfg := ConfigFile.new()
+	if cfg.load("user://settings.cfg") == OK:
+		AudioServer.set_bus_volume_db(0, linear_to_db(cfg.get_value("audio", "volume", 0.8)))

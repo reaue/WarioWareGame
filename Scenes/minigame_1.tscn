@@ -12,10 +12,10 @@ size = Vector2(1167.3119, 23)
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_u7g0y"]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_u7g0y"]
+
 [node name="Node2D" type="Node2D" unique_id=1770153677]
 script = ExtResource("1_5txvl")
-
-[node name="Themed_timer" parent="." unique_id=1565683022 instance=ExtResource("2_0uv5o")]
 
 [node name="Parallax2D" type="Parallax2D" parent="." unique_id=2023403844]
 repeat_size = Vector2(1000, 0)
@@ -92,9 +92,6 @@ position = Vector2(-929, -715)
 scale = Vector2(0.20834513, 1.095788)
 shape = SubResource("RectangleShape2D_mvx0g")
 
-[node name="Player" parent="." unique_id=473270123 instance=ExtResource("2_11mgy")]
-position = Vector2(135, 578)
-
 [node name="Orb1" type="Area2D" parent="." unique_id=1548998196]
 position = Vector2(227, 309)
 script = ExtResource("2_o6yob")
@@ -118,3 +115,11 @@ texture = ExtResource("3_f6tb2")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Orb2" unique_id=1377824301]
 scale = Vector2(2, 2)
 shape = SubResource("CircleShape2D_u7g0y")
+
+[node name="Themed_timer" parent="." unique_id=1565683022 instance=ExtResource("2_0uv5o")]
+
+[node name="Player" parent="." unique_id=473270123 instance=ExtResource("2_11mgy")]
+position = Vector2(135, 578)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1657202455]
+shape = SubResource("RectangleShape2D_u7g0y")
