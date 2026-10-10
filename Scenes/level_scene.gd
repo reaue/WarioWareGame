@@ -18,7 +18,7 @@ func _ready() -> void:
 		Global.minigames_done += 1
 		get_tree().change_scene_to_file("res://Scenes/minigame_" + str(Global.minigames_done) + ".tscn")
 	else:
-		get_tree().change_scene_to_file("res://Scenes/Title_scene.tscn")
+		get_tree().change_scene_to_file("res://Scenes/done_screen.tscn")
 
 func _process(delta: float) -> void:
 	for i in hearts.size():

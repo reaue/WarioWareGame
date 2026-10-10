@@ -7,7 +7,7 @@ var music := AudioStreamPlayer.new()
 
 func _ready() -> void:
 	add_child(music)
-	music.stream = load("res://paulyudin-game-game-music-573991.mp3") # adapte le nom si tu as mis un .mp3
+	music.stream = load("res://paulyudin-game-game-music-573991.mp3")
 	music.play()
 
 	var cfg := ConfigFile.new()
