@@ -21,6 +21,8 @@ func _ready() -> void:
 		get_tree().change_scene_to_file("res://Scenes/done_screen.tscn")
 
 func _process(delta: float) -> void:
+	if 0 == Global.lives:
+		get_tree().change_scene_to_file("res://Scenes/death.screen.tscn")
 	for i in hearts.size():
 		hearts[i].visible = i < Global.lives # le cœur i est visible si on a au moins i+1 vies
 
