@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cugix0h182jir"
-path="res://.godot/imported/favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1.webp-6abb1557438bcf9ef7bd0799dc7aee63.ctex"
+uid="uid://c37wq06k4gx5q"
+path="res://.godot/imported/orb-removebg-preview.png-43d3464cad06e4299e89c021d760bcbb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1.webp"
-dest_files=["res://.godot/imported/favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1.webp-6abb1557438bcf9ef7bd0799dc7aee63.ctex"]
+source_file="res://orb-removebg-preview.png"
+dest_files=["res://.godot/imported/orb-removebg-preview.png-43d3464cad06e4299e89c021d760bcbb.ctex"]
 
 [params]
 

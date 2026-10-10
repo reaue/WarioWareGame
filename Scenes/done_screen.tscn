@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://c5m103cffgewc"]
+
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="1_en6tx"]
+
+[node name="done_screen" type="Node2D" unique_id=924689878]
+
+[node name="Background" type="TextureRect" parent="." unique_id=539172945]
+offset_right = 591.0
+offset_bottom = 338.0
+scale = Vector2(1.9492126, 1.9170915)
+texture = ExtResource("1_en6tx")
