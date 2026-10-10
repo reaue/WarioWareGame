@@ -1,8 +1,8 @@
 [gd_scene format=3 uid="uid://drjnwodke0q5r"]
 
 [ext_resource type="Script" uid="uid://hr5tc875f36u" path="res://Scenes/minigame_2.gd" id="1_rfxq2"]
-[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="2_mmgun"]
-[ext_resource type="Texture2D" uid="uid://c37wq06k4gx5q" path="res://orb-removebg-preview.png" id="3_h684j"]
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://assets/background.jpg" id="2_mmgun"]
+[ext_resource type="Texture2D" uid="uid://c37wq06k4gx5q" path="res://assets/orb-removebg-preview.png" id="3_h684j"]
 [ext_resource type="Script" uid="uid://dqafihjvwk0ke" path="res://Scenes/button_1.gd" id="4_wu6l1"]
 [ext_resource type="PackedScene" uid="uid://b0ik7e6veito1" path="res://Scenes/Themed_timer.tscn" id="5_cqly6"]
 

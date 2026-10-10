@@ -1,8 +1,8 @@
 [gd_scene format=3 uid="uid://cfcwfs3n2sg2j"]
 
 [ext_resource type="Script" uid="uid://cwx1b3n87q82w" path="res://Scenes/level_scene.gd" id="1_5w3at"]
-[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="1_u70vr"]
-[ext_resource type="Texture2D" uid="uid://1a7hf58j73dj" path="res://heart-removebg-preview.png" id="2_u70vr"]
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://assets/background.jpg" id="1_u70vr"]
+[ext_resource type="Texture2D" uid="uid://1a7hf58j73dj" path="res://assets/heart-removebg-preview.png" id="2_u70vr"]
 
 [node name="LevelScene" type="Node2D" unique_id=509335099]
 script = ExtResource("1_5w3at")

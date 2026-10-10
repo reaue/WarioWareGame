@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://x37ogllew5qs"]
 
 [ext_resource type="Script" uid="uid://bcvdvw6c6k3kb" path="res://Scenes/player.gd" id="1_kyqiw"]
-[ext_resource type="Texture2D" uid="uid://blb2m35nsc4vv" path="res://favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1-removebg-preview.png" id="2_gntrk"]
+[ext_resource type="Texture2D" uid="uid://blb2m35nsc4vv" path="res://assets/favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1-removebg-preview.png" id="2_gntrk"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_f6tb2"]
 size = Vector2(133, 120)

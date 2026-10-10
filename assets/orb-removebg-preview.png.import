@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dpel1qfoboavs"
-path="res://.godot/imported/New Piskel-2.png(1).png-4111ac7c1e6be1b425e1679738c12ec1.ctex"
+uid="uid://c37wq06k4gx5q"
+path="res://.godot/imported/orb-removebg-preview.png-0875ef0569b6ee08f388568d40268d8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://New Piskel-2.png(1).png"
-dest_files=["res://.godot/imported/New Piskel-2.png(1).png-4111ac7c1e6be1b425e1679738c12ec1.ctex"]
+source_file="res://assets/orb-removebg-preview.png"
+dest_files=["res://.godot/imported/orb-removebg-preview.png-0875ef0569b6ee08f388568d40268d8d.ctex"]
 
 [params]
 

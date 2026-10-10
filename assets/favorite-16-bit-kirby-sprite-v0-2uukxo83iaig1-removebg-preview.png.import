@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dmojy337u5ksy"
-path="res://.godot/imported/New Piskel-2.png.png-fb95dab99c55a173baa24113ef7da686.ctex"
+uid="uid://blb2m35nsc4vv"
+path="res://.godot/imported/favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1-removebg-preview.png-41eca8b39272a519c608f6f2c482d1ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://New Piskel-2.png.png"
-dest_files=["res://.godot/imported/New Piskel-2.png.png-fb95dab99c55a173baa24113ef7da686.ctex"]
+source_file="res://assets/favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1-removebg-preview.png"
+dest_files=["res://.godot/imported/favorite-16-bit-kirby-sprite-v0-2uukxo83iaig1-removebg-preview.png-41eca8b39272a519c608f6f2c482d1ae.ctex"]
 
 [params]
 

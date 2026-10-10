@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bula3r3q0qdlg"
-path="res://.godot/imported/New Piskel-6.png.png-38f26bca60e0b6325ed7fa1067067a66.ctex"
+uid="uid://1a7hf58j73dj"
+path="res://.godot/imported/heart-removebg-preview.png-08b677cf59adb7b516823954e0e0fc11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://New Piskel-6.png.png"
-dest_files=["res://.godot/imported/New Piskel-6.png.png-38f26bca60e0b6325ed7fa1067067a66.ctex"]
+source_file="res://assets/heart-removebg-preview.png"
+dest_files=["res://.godot/imported/heart-removebg-preview.png-08b677cf59adb7b516823954e0e0fc11.ctex"]
 
 [params]
 

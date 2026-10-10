@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsj0212kk72cs"
-path="res://.godot/imported/New Piskel-5.png.png-546c375c4a707757cc10e714eea7495f.ctex"
+path="res://.godot/imported/New Piskel-5.png.png-b6bdfa9fe3237d2ec68d296718deb298.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://New Piskel-5.png.png"
-dest_files=["res://.godot/imported/New Piskel-5.png.png-546c375c4a707757cc10e714eea7495f.ctex"]
+source_file="res://assets/New Piskel-5.png.png"
+dest_files=["res://.godot/imported/New Piskel-5.png.png-b6bdfa9fe3237d2ec68d296718deb298.ctex"]
 
 [params]
 

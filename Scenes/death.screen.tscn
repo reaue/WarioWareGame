@@ -1,11 +1,11 @@
 [gd_scene format=3 uid="uid://c3ito6yabams0"]
 
-[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="1_7u2s6"]
-[ext_resource type="Texture2D" uid="uid://onlc2hrik1tb" path="res://5oyPDk-removebg-preview.png" id="2_m2gtv"]
-[ext_resource type="Texture2D" uid="uid://bi7iprbln8cnm" path="res://image-removebg-preview.png" id="3_v13pw"]
-[ext_resource type="Texture2D" uid="uid://c7btep32k71as" path="res://120087215-removebg-preview.png" id="4_gnkx4"]
-[ext_resource type="Texture2D" uid="uid://84vmbnji1v6v" path="res://images-removebg-preview(1).png" id="5_3moom"]
-[ext_resource type="Texture2D" uid="uid://cfptkdx6uae06" path="res://images-removebg-preview.png" id="6_4b6be"]
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://assets/background.jpg" id="1_7u2s6"]
+[ext_resource type="Texture2D" uid="uid://onlc2hrik1tb" path="res://assets/5oyPDk-removebg-preview.png" id="2_m2gtv"]
+[ext_resource type="Texture2D" uid="uid://bi7iprbln8cnm" path="res://assets/image-removebg-preview.png" id="3_v13pw"]
+[ext_resource type="Texture2D" uid="uid://c7btep32k71as" path="res://assets/120087215-removebg-preview.png" id="4_gnkx4"]
+[ext_resource type="Texture2D" uid="uid://84vmbnji1v6v" path="res://assets/images-removebg-preview(1).png" id="5_3moom"]
+[ext_resource type="Texture2D" uid="uid://cfptkdx6uae06" path="res://assets/images-removebg-preview.png" id="6_4b6be"]
 
 [node name="Node2D" type="Node2D" unique_id=1135659853]
 

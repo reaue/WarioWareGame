@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://1a7hf58j73dj"
-path="res://.godot/imported/heart-removebg-preview.png-3652979e71bff1b2c269eb58baf7897c.ctex"
+uid="uid://cfptkdx6uae06"
+path="res://.godot/imported/images-removebg-preview.png-9c570d69909ed120503b301bbbdaf7b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://heart-removebg-preview.png"
-dest_files=["res://.godot/imported/heart-removebg-preview.png-3652979e71bff1b2c269eb58baf7897c.ctex"]
+source_file="res://assets/images-removebg-preview.png"
+dest_files=["res://.godot/imported/images-removebg-preview.png-9c570d69909ed120503b301bbbdaf7b0.ctex"]
 
 [params]
 

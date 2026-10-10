@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://vjw7kr0reokr"]
 
 [ext_resource type="Script" uid="uid://gjwtmig8u8si" path="res://Scenes/title_scene.gd" id="1_kqxco"]
-[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="1_w70ak"]
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://assets/background.jpg" id="1_w70ak"]
 
 [node name="TitleScene" type="Node2D" unique_id=1899533712]
 scale = Vector2(1.9492229, 1.9171385)

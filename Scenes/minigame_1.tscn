@@ -1,11 +1,11 @@
 [gd_scene format=3 uid="uid://1klc88s7mxil"]
 
 [ext_resource type="Script" uid="uid://bmryqdroeoiji" path="res://Scenes/minigame_1.gd" id="1_5txvl"]
-[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://background.jpg" id="1_enoba"]
+[ext_resource type="Texture2D" uid="uid://dvyljotkdomde" path="res://assets/background.jpg" id="1_enoba"]
 [ext_resource type="PackedScene" uid="uid://b0ik7e6veito1" path="res://Scenes/Themed_timer.tscn" id="2_0uv5o"]
 [ext_resource type="PackedScene" uid="uid://x37ogllew5qs" path="res://Scenes/Player.tscn" id="2_11mgy"]
 [ext_resource type="Script" uid="uid://drtafegahdfl7" path="res://Scenes/orb_1.gd" id="2_o6yob"]
-[ext_resource type="Texture2D" uid="uid://c37wq06k4gx5q" path="res://orb-removebg-preview.png" id="3_f6tb2"]
+[ext_resource type="Texture2D" uid="uid://c37wq06k4gx5q" path="res://assets/orb-removebg-preview.png" id="3_f6tb2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_mvx0g"]
 size = Vector2(1167.3119, 23)
