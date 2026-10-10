@@ -10,23 +10,23 @@ You can play it [**here**](https://reaue.itch.io/minigame).
 
 # Features
 
-- The game has a background-music which an adjustable volume, changeable in the settings.
-- The game include a winning and death screen, which are original.
+- The game has a background-music which has an adjustable volume, changeable in the settings.
+- The game includes a winning and death screen, which are original.
 - The player has 3 lives and the remaining lives are displayed between games
 - If the timer runs out before the player finishes a mini-game, they lose one life. When all three lives are gone, the game over screen appears.
 ***
 **The winning screen :**
-(With custom animated pixel arts)
+(With custom animated pixel art)
 ![](assets/winScreen.gif)
 ***
 **The death screen :**
 ![](assets/deathScreen.png)
 ***
 ### Mini-game 1:
-- A platformer where you need to collect all the orbs, during a limitated time, to finish the level.
+- A platformer where you need to collect all the orbs, during a limited time, to finish the level.
 ***
 ### Mini-game 2:
-- A clicker where you need to clicks on every orb, before the end of the timer.
+- A clicker where you need to click on every orb, before the end of the timer.
 
 # How to run it locally
 
@@ -36,11 +36,11 @@ You can play it [**here**](https://reaue.itch.io/minigame).
 
 # How it works 
 
-The game starts in the `Title_scene` screen withe three buttons, the first one, for playing, the second fot the settings and then for quitting the game.
+The game starts in the `Title_scene` screen with three buttons, the first one, for playing, the second for the settings and then for quitting the game.
 
-Then between each try for the mini-games, you will see during *2.5s* a screen with your number of lives and the level number.
+Then between each attempt for the mini-games, you will see during *2.5s* a screen with your number of lives and the level number.
 
-
+The both games a described above. For the controls, use the left and right arrow to move and the space bar to jump, for the second game, use your left-click on the orb to catch them. 
 
 # Credits
 
