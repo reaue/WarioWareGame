@@ -2,7 +2,7 @@
 
 miniGAME is a Godot game with two mini-games. The first one is a platformer where you collect all the orbs before time runs out, and the second is a clicker where you click every orb also before the timer ends.
 
-![image](assets/video.gif)
+![](assets/video.gif)
 
 # Try it
 
@@ -14,10 +14,17 @@ You can play it [**here**](https://reaue.itch.io/minigame).
 - The game include a winning and death screen, which are original.
 - The player has 3 lives and the remaining lives are displayed between games
 - If the timer runs out before the player finishes a mini-game, they lose one life. When all three lives are gone, the game over screen appears.
-
+***
+**The winning screen :**
+(With custom animated pixel arts)
+![](assets\winScreen.gif)
+***
+**The death screen :**
+![](assets\deathScreen.png)
+***
 ### Mini-game 1:
 - A platformer where you need to collect all the orbs, during a limitated time, to finish the level.
-
+***
 ### Mini-game 2:
 - A clicker where you need to clicks on every orb, before the end of the timer.
 
@@ -28,6 +35,10 @@ You can play it [**here**](https://reaue.itch.io/minigame).
 3) Press F5 to run the game.
 
 # How it works 
+
+The game starts in the `Title_scene` screen withe three buttons, the first one, for playing, the second fot the settings and then for quitting the game.
+
+Then between each try for the mini-games, you will see during *2.5s* a screen with your number of lives and the level number.
 
 
 
