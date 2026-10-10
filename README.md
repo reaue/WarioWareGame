@@ -17,10 +17,10 @@ You can play it [**here**](https://reaue.itch.io/minigame).
 ***
 **The winning screen :**
 (With custom animated pixel arts)
-![](assets\winScreen.gif)
+![](assets/winScreen.gif)
 ***
 **The death screen :**
-![](assets\deathScreen.png)
+![](assets/deathScreen.png)
 ***
 ### Mini-game 1:
 - A platformer where you need to collect all the orbs, during a limitated time, to finish the level.
